@@ -7,5 +7,6 @@ public class Test {
 		System.out.println(888888);
 		System.out.println(666666);
 		System.out.println(99999);
+		
 	}
 }
